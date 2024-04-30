@@ -28,7 +28,7 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
-remote_theme: http[s]://github.com/seanh/jekyll-theme-oatcake
+remote_theme: seanh/jekyll-theme-oatcake@0.1.3
 
 plugins:
  - jekyll-feed
